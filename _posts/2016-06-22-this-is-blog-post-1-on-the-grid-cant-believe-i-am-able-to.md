@@ -9,8 +9,8 @@ keywords: []
 description: >-
   This is blog post #1 on The Grid. Can't believe I am able to dig into the DNS
   like this.
-datePublished: '2016-06-22T16:07:37.414Z'
-dateModified: '2016-06-22T16:07:20.745Z'
+datePublished: '2016-06-22T16:09:01.195Z'
+dateModified: '2016-06-22T16:07:39.042Z'
 title: A
 author:
   - name: AJ Adams
