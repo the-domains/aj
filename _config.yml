@@ -1,7 +1,7 @@
 name: AJ
 favicon: null
-layout_spectrum: 0.5690828633960336
-typography_spectrum: 0.668693397892639
+layout_spectrum: 0.50436
+typography_spectrum: 0.31875
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5635746214538813
-  lightness: 0.31708599580451846
-  saturation: 0.06484431051649153
-  rhythmicContrast: 0.05498853442259133
+    - '#ffd300'
+    - '#ffffff'
+    - '#b4b4b4'
+    - '#000000'
+    - '#454545'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
