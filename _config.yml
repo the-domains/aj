@@ -2,6 +2,7 @@ name: Grid
 favicon: null
 layout_spectrum: 0.50436
 typography_spectrum: 0.31875
+title: Grid
 cta:
   domain: null
   bucket: null
