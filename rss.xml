@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AJ]]></title>
         <description><![CDATA[AJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://grid.ajada.ms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 16:02:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 22 Jun 2016 16:07:39 GMT</lastBuildDate>
+        <atom:link href="http://grid.ajada.ms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0be96b47-d784-4c3e-9add-3d2d378b1c7b.png">]]></description>
+            <title><![CDATA[A]]></title>
+            <description><![CDATA[<article><h1>A</h1><p>This is blog post #1 on The Grid. Can't believe I am able to dig into the DNS like this.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/159a8862-095f-4b3a-b188-bb498e88e30f.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0be96b47-d784-4c3e-9add-3d2d378b1c7b.png</link>
             <guid isPermaLink="false">aecb5089-7faa-41ce-8c1d-253a3c5e9f91</guid>
-            <pubDate>Wed, 22 Jun 2016 16:01:28 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2016 16:07:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
